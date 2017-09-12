@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on MAUPP</title>
+    <link>http://maupp.ulb.ac.be/page/</link>
+    <description>Recent content in Pages on MAUPP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 03:51:34 +0200</lastBuildDate>
+    
+	<atom:link href="http://maupp.ulb.ac.be/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Methodology</title>
+      <link>http://maupp.ulb.ac.be/page/methodology/</link>
+      <pubDate>Tue, 12 Sep 2017 03:51:34 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/page/methodology/</guid>
+      <description>MAUPP Methodology The MAUPP project will work at two different spatial resolutions: HR (~30 m) and VHR (&amp;lt; 5m). The Morphological Urban Area (MUA) and urban land uses will be delineated, mapped and predicted mainly using SAR and optical remote sensing as input data. In addition, spatially-detailed census data, historical maps and existing population distribution datasets will be used for modelling and predicting urban expansion and human population densities across Africa.</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://maupp.ulb.ac.be/page/objectives/</link>
+      <pubDate>Tue, 12 Sep 2017 03:51:24 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/page/objectives/</guid>
+      <description>MAUPP objectives We have highlighted in the review of the state of knowledge that there are two limitations in the existing population distribution datasets that are related to urban areas: (i) the lack of urban expansion forecasts and (ii) the homogenous distribution of people within cities. Both limitations can be significantly improved with advanced remote sensing data and techniques. The general objective of the MAUPP project is therefore to improve our spatial understanding and forecast of urbanization and urban population distribution in Africa through the use of remote sensing and spatial modelling.</description>
+    </item>
+    
+    <item>
+      <title>Research topic</title>
+      <link>http://maupp.ulb.ac.be/page/research-topic/</link>
+      <pubDate>Tue, 12 Sep 2017 03:51:17 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/page/research-topic/</guid>
+      <description>Research topic According to United Nations forecasts, the population of Africa will double over the next 40 years:from about 1 billion in 2010, Africa is expected to reach 2 billion inhabitants in 2045 (1). Much ofthis anticipated population growth is expected to be concentrated in urban areas, with almost 720million more people living in cities over the same period (2, 3). Such an increase in urbanpopulation combined with an overall decrease in average urban population density will lead tohigher urban expansion rates in Africa than other regions of the world.</description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>http://maupp.ulb.ac.be/page/summary/</link>
+      <pubDate>Tue, 12 Sep 2017 03:50:48 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/page/summary/</guid>
+      <description>Project summary The population of Africa is predicted to double over the next 40 years, driving exceptionally high urban expansion rates. Urbanization has profound social, environmental and epidemiological implications and makes spatial and quantitative estimations of urban change, population density and socio-economic characteristics valuable information for epidemiology and vulnerability assessment. The performance of urban expansion models largely depends on the quality and type of data available, which have so far been limited, and reduced the confidence and the applications of models for Africa.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://maupp.ulb.ac.be/page/publications/</link>
+      <pubDate>Mon, 11 Sep 2017 20:46:34 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/page/publications/</guid>
+      <description>Journal articles An Open-Source Semi-Automated Processing Chain for Urban Object-Based Classification
+Taïs Grippa, Moritz Lennert, Benjamin Beaumont, Sabine Vanhuysse, Nathalie Stephenne and Eléonore Wolff
+In Remote Sensing, volume 9, 2017.
+Modelling changing population distributions: an example of the Kenyan Coast, 1979-2009
+Catherine Linard, Caroline W. Kabaria, Marius Gilbert, Andrew J. Tatem, Andrea E. Gaughan, Forrest R. Stevens, Alessandro Sorichetta, Abdisalan M. Noor and Robert W. Snow
+In International Journal of Digital Earth, volume 10, 2017.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://maupp.ulb.ac.be/page/about/</link>
+      <pubDate>Sun, 10 Sep 2017 22:09:22 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/page/about/</guid>
+      <description>The MAUPP project (Modelling and forecasting African Urban Population Patterns for vulnerability and health assessments) is a four-year research project funded by the STEREO-III program of the Belgian Science Policy (BELSPO).
+The main objective of MAUPP is to develop models and forecasts to improve our knowledge of sub-Saharan African urban population patterns for a wider usage of urban population distribution datasets in vulnerability and health assessments. The MAUPP project aims to contribute to the WorldPop open access archive of spatial demographic datasets.</description>
+    </item>
+    
+  </channel>
+</rss>

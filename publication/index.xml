@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on MAUPP</title>
+    <link>http://maupp.ulb.ac.be/publication/</link>
+    <description>Recent content in Publications on MAUPP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2015 20:20:47 +0200</lastBuildDate>
+    
+	<atom:link href="http://maupp.ulb.ac.be/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An urban expansion model for African cities using combined multi temporal SAR and optical data</title>
+      <link>http://maupp.ulb.ac.be/publication/lopez2015/</link>
+      <pubDate>Wed, 11 Nov 2015 20:20:47 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/publication/lopez2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An urban expansion model for African cities using fused multi temporal optical and SAR data</title>
+      <link>http://maupp.ulb.ac.be/publication/shimoni2015/</link>
+      <pubDate>Sat, 11 Jul 2015 20:18:18 +0200</pubDate>
+      
+      <guid>http://maupp.ulb.ac.be/publication/shimoni2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
